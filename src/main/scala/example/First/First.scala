@@ -5,4 +5,5 @@ object First {
 
   val rea2: Int = 123 + 2 * 7
   println(rea2)
+
 }
