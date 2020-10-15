@@ -5,5 +5,6 @@ import example.Second._
 
 object Main extends App {
   //First
-  Second
+  //Second
+  Functions
 }
