@@ -23,7 +23,7 @@ object Functions {
 
   for (i <- 1 to 10) yield i % 3 // Вернет Vector(1, 2, 0, 1, 2, 0, 1, 2, 0, 1)
 
-  def proc(i: Int): Unit ={ //Процедура
+  def proc(i: Int) { //Процедура
     println(i)
   }
 
