@@ -10,6 +10,14 @@ import example.Seventh._
 import example.Eighth._
 import example.Ninth._
 import example.Tenth._
+import example.Eleventh._
+import example.Twelfth._
+import example.Thirteenth._
+import example.Fourteenth._
+import example.Fifteenth._
+import example.Seventeenth._
+import example.Eighteenth._
+import example.TwentyFirst._
 
 object Main extends App {
   //First
@@ -22,5 +30,15 @@ object Main extends App {
   //Seventh
   //Eighth
   //Ninth
-  Tenth
+  //Tenth
+  //TenthSecond
+  //Eleventh
+  //Twelfth
+  //Thirteenth
+  //Fourteenth
+  //CaseClasses
+  //Fifteenth
+  //Seventeenth
+  //Eighteenth
+  TwentyFirst
 }
